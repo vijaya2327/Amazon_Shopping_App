@@ -1,4 +1,4 @@
-<h1 align="center">🛒 Amazon Shopping Dashboard — Data Analysis Project 📊</h1>
+<h1 align="right">🛒 Amazon Shopping Dashboard — Data Analysis Project 📊</h1>
 
 <p>
 An interactive data analysis project built using Power BI to visualize and analyze Amazon sales data.
@@ -19,7 +19,6 @@ amazon-dashboard-project/
 │
 ├── Amazon_India_Sales.xlsx     # Raw dataset
 ├── Dashboard_project.pbix      # Power BI dashboard file
-├── project_documentation.docx  # Project explanation
 └── README.md                  # Project overview (this file)
 </pre>
 
@@ -95,7 +94,7 @@ It enables businesses to monitor performance, understand trends, and make better
 
 <h2>👤 Author</h2>
 <p>
-Your Name<br>
+K.Vijaya Kumari<br>
 Power BI Dashboard Project<br>
 📅 2026
 </p>
